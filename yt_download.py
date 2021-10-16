@@ -1,5 +1,6 @@
-#fais le 16/10/2021 par Splyder en s'inspirant du code de billy
-
+'''
+Fait par Splyder, le 16/10/2021 en s'inspirant du code de billy
+'''
 #importation des modules
 from requests import get
 from os import system, mkdir, name
